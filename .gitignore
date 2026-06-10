@@ -1,0 +1,10 @@
+venv/
+runs/
+data/
+videos/
+
+*.pth
+*.pt
+*.cache
+
+__pycache__/
